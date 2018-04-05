@@ -19,7 +19,7 @@ data: (array) //the context payload
 ## Example Context Object
 ```javascript
 { “object” : ”fdc3-context”, 
-  “definition” : ” https://fdc3.org...”, 
+  “definition” : ”https://fdc3.org...”, 
   “version” : ”1.0.0”,
   “data” : [ 
     { 
